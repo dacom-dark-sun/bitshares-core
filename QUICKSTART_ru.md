@@ -1,3 +1,5 @@
+created_by @eroshkin.mikhail
+
 # Руководство по установке и настройке TravelChain на Ubuntu 16.04
 
 ## Подготовительные действия
